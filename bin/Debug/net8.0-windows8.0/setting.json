@@ -1,0 +1,10 @@
+{
+  "firstFlag": true,
+  "settings": {
+    "DeletionNotificationFlag": false,
+    "SaveNotificationFlag": true,
+    "AutoSaveFlag": true,
+    "TimeOutFlag": true,
+    "TimeOutMinutes": 5
+  }
+}

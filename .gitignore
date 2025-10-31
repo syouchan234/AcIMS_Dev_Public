@@ -1,0 +1,14 @@
+#除外ディレクトリ定義
+.vs/
+.obj/Debug/
+.obj/Release/
+
+#除外ファイル定義
+/.vs/AccountInfoManager/DesignTimeBuild/.dtbcache.v2
+*.htm
+/.vs/AccountInfoManager/v17/.suo
+/obj/Debug/net8.0-windows8.0
+/.vs/AccountInfoManager/v17/DocumentLayout.json
+/obj/AccountInfoManager.csproj.nuget.dgspec.json
+/obj/project.assets.json
+/obj/project.nuget.cache
