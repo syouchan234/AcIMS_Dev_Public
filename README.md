@@ -1,5 +1,5 @@
 <h1>外部仕様</h1>
-<a href="https://sites.google.com/view/tanakatechpublicapplication/home/manual?authuser=0](https://sites.google.com/view/tanakatechpublicapplication/manual?authuser=0" target="_blank">公開マニュアル</a>
+<a href="https://sites.google.com/view/tanakatechpublicapplication/manual?authuser=0" target="_blank">公開マニュアル</a>
 <h1>内部仕様</h1>
 <pre>
   <h3>ファイル説明</h3>
